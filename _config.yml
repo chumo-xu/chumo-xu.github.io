@@ -1,0 +1,45 @@
+# Basic Information
+title: Kaiyuan Xu
+position: Research Assistant
+affiliation: Westlake University
+email: kaiyuanxu2002@gmail.com
+
+# SEO
+keywords: Kaiyuan Xu, 3D reconstruction, world models, computer vision, robotics
+description: Kaiyuan Xu — Research Assistant at Westlake University; 3D/4D reconstruction and world models.
+canonical: https://chumo-xu.github.io/
+
+# Links (remove a line if you do not use it)
+google_scholar: https://scholar.google.com/citations?hl=en&user=WDXHfpMAAAAJ
+github_link: https://github.com/chumo-xu
+# cv_link: assets/files/cv.pdf
+# wechat: ./assets/img/wechat.jpg
+# twitter:
+# linkedin:
+
+# Images — place KaiyuanXu.jpg in assets/img/ (your photo from the old site)
+avatar: ./assets/img/KaiyuanXu.jpg
+avatar_center_crop: true
+avatar_aspect_ratio: "square"
+favicon: ./assets/img/icon.png
+favicon_dark: ./assets/img/icon.png
+
+enable_footnote: true
+auto_dark_mode: false
+font: "Serif"
+
+# Remove Google Analytics until you add your own measurement ID
+# google_analytics:
+
+remote_theme: yaoyao-liu/minimal-light
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
+  - html_source_file/

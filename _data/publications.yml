@@ -1,0 +1,10 @@
+main:
+  - title: "SurgCUT3R: Surgical Scene-Aware Continuous Understanding of Temporal 3D Representation"
+    authors: "<b>Kaiyuan Xu</b>, Fangzhou Hong, Daniel Elson, Baoru Huang"
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics and Automation (ICRA), 2026.
+    image: ./assets/img/paper1.png
+    # Add links when available:
+    # arxiv: https://arxiv.org/abs/xxxx.xxxxx
+    # pdf: https://arxiv.org/pdf/xxxx.xxxxx
+    # code: https://github.com/chumo-xu/...
