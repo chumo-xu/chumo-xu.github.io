@@ -3,7 +3,7 @@ main:
     authors: "<b>Kaiyuan Xu</b>, Fangzhou Hong, Daniel Elson, Baoru Huang"
     conference_short: ICRA
     conference: IEEE International Conference on Robotics and Automation (ICRA), 2026.
-    image: ./assets/img/paper1.png
+    image: ./images/paper1.jpg
     # Add links when available:
     # arxiv: https://arxiv.org/abs/xxxx.xxxxx
     # pdf: https://arxiv.org/pdf/xxxx.xxxxx

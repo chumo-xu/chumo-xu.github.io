@@ -17,8 +17,8 @@ github_link: https://github.com/chumo-xu
 # twitter:
 # linkedin:
 
-# Images — place KaiyuanXu.jpg in assets/img/ (your photo from the old site)
-avatar: ./assets/img/KaiyuanXu.jpg
+# Profile photo (your file: images/KaiyuanXu.jpg)
+avatar: ./images/KaiyuanXu.jpg
 avatar_center_crop: true
 avatar_aspect_ratio: "square"
 favicon: ./assets/img/icon.png
@@ -42,4 +42,3 @@ exclude:
   - README_de.md
   - LICENSE
   - minimal-light.gemspec
-  - html_source_file/

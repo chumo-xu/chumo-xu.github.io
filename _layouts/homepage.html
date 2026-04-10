@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.chinese_name}}</title>
-    <meta name="google-site-verification" content="ZgByzZp1LJzKjGEPNYLkjUQUPpSXR88eG2XsgT2fIGU" />
+    <title>{% if site.chinese_name and site.chinese_name != "" %}{{ site.title }} | {{ site.chinese_name }}{% else %}{{ site.title }}{% endif %}</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -103,9 +102,6 @@
 
       {{ content }}
 
-      <br>
-      <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=rPkqIl4-_yiyrcog3ADTEMusm4X-O6tOrsQDCABujew&co=4099ff'></script>
-      <br>
       {% if site.enable_footnote %}
       <p><small>
         Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.
